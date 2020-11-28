@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "Installation started"
+echo -e "Installation started"
 
+sleep 3
 
+echo -e "Installation finished"
